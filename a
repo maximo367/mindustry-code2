@@ -1,0 +1,17 @@
+UnitTypes.latum.hidden = false
+UnitTypes.renale.hidden = false
+UnitTypes.anthicus-missile.hidden = false
+UnitTypes.quell-missile.hidden = false
+UnitTypes.disrupt-missile.hidden = false
+UnitTypes.scathe--missile.hidden = false
+UnitTypes.ascathe-missile-phase.hidden = false
+UnitTypes.anthicus-missile-surge.hidden = false
+UnitTypes.anthicus-missile-surge-split.hidden = false
+ItemsTypes.fissile-matter.hidden = false
+ItemTypes.dormant-cyst.hidden = false
+BlockTypes.heat-reactor.hidden = false
+BlockTypes.slag-centrifuge.hidden = false
+BlockTypes.ballistic-silo.hidden = false
+BlockTypes.ballistic-assembler.hidden = false
+BlockTypes.nuclear-warhead.hidden = false
+PlanetDialog.debugSelect = true
