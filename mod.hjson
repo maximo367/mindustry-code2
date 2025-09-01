@@ -13,4 +13,4 @@ version: 1.0
 #the minimum game build required to run this mod
 minGameVersion: 147
 
-java: "false"
+repo:"https://github.com/maximo367/mindustry-code2"
