@@ -1,10 +1,12 @@
-name: mindustry-code2
-displayName: mindustry-code2
-subTitle:no12
-author: maximo367
-description:
+{
+"name": "mindustry-code2"
+"displayName": "mindustry-code2"
+"subTitle":"no12"
+"author": "maximo367"
+"description":
 '''
-I dont kwon1
+"I dont kwon1"
 '''
-repo:https: //github.com/maximo367/mindustry-code2.git
-minGameVersion: 147
+"repo":"https: //github.com/maximo367/mindustry-code2.git"
+"minGameVersion": "147"
+}
