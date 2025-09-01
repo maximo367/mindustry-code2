@@ -1,16 +1,10 @@
-#the mod name as displayed in-game
-displayName: "private"
-
-#your name
-author: "LATUM"
-
-#the mod description as seen in the mod dialog
-description: "private mod"
-
-#the mod version
-version: 1.0
-
-#the minimum game build required to run this mod
+name: mindustry-code2
+displayName: mindustry-code2
+subTitle:no12
+author: maximo367
+description:
+'''
+I dont kwon1
+'''
+repo:https: //github.com/maximo367/mindustry-code2.git
 minGameVersion: 147
-
-repo:"https://github.com/maximo367/mindustry-code2"
