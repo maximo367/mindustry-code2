@@ -1,11 +1,11 @@
 #the mod name as displayed in-game
-displayName: "private-hidden-content-unlock"
+displayName: "private"
 
 #the internal name of your mod
-name: "private-hidden-content-unlock"
+name: "private"
 
 #your name
-author: "maximo367"
+author: "LATUM"
 
 #the mod description as seen in the mod dialog
 description: "private mod"
